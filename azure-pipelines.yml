@@ -12,7 +12,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  azureSubscription: 'Azure-WebApp-Connection'
+  azureSubscription: 'Azure_subscription_1'
   appName: 'Loginform'
 
 steps:
